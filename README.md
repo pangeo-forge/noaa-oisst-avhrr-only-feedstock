@@ -1,3 +1,3 @@
-# Feedstock Template
+  # noaa-oisst-avhrr-only-feedstock
+  This repository has been generated via the [`feedstock-creation-action`](https://github.com/pangeo-forge/feedstock-creation-action) for the noaa-oisst-avhrr-only Feedstock
 
-Template repository used in the creation of Recipe Feedstocks
